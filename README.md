@@ -12,10 +12,10 @@ Wir können ihnen Computerzeit geben. Je mehr und schneller Modelle durch gerech
 Bei Folding@Home habe ich uns als Team angemeldet -> TheDivision2_ALS mit der Team Id 255528 (aber natürlich könnt ihr auch daran teilnehmen mit einem anderen Team oder ohne Team).
 Das Vorgehen ist wie folgt:
 Auf [Folding@Home](https://foldingathome.org/) gehen, sich informieren (gibt auch jede Menge Infos auf wikipedia und youtube) und das Programm für den PC herunter laden, ausführen und ggfls. Teamid und einen Namen (freie Wahl) angeben.
-Das Programm nistet sich dann im Hintergrund in der Taskleiste ein und man kann jederzeit es pausieren oder die Intensität mit der es rechnet herauf oder herunter schrauben.
-Bei mir (i7 8700k / RTX 2070) kann es mit mittleren Einstellungen auch bei 1080P Gaming auch aktiv sein wenn ich spiele. Aber meist dürfte es sinnvoll sein es während des spielens auf Pause zu schalten.
+Das Programm nistet sich dann im Hintergrund in der Taskleiste ein und man kann jederzeit es pausieren lassen oder die Intensität mit der es rechnet herauf oder herunter schrauben.
+Bei mir (i7 8700k / RTX 2070) kann es mit mittleren Einstellungen auch bei 1080P Gaming auch aktiv sein wenn ich spiele. Aber meist dürfte es sinnvoll sein es während des Spielens auf Pause zu schalten.
 
-## Ziel
+## Ziel 
 Die angebotenen Medien wie diese Übersichtsseite und der Discord Server sollen die Möglichkeiten des Zusammenspielens erleichtern.
 Der Discord Server ist  die gemeinsame Kommunikationsbasis für Mitglieder und Nichtmitglieder des Clans. 
 Hier können sich Gruppen für Raids, Wochen- und Tagesaufgaben finden. Und zwar unabhängig von der Clanzugehörigkeit der einzelnen Spieler. 
