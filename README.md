@@ -6,12 +6,12 @@ Ein offener, deutschsprachiger Clan mit Schwerpunkt auf PVE.
 ## Discord Einladungslink 
 [Discord Einladungslink](https://discord.gg/Pfq2FRa)<br>
 
-## Coronakrise
+## Coronakrise, wir können helfen mit https://foldingathome.org
 Wir (besonders als PC Gamer) können den Forschern, die auf der Suche nach einem Impfstoff sind, helfen.
 Wir können ihnen Computerzeit geben. Je mehr und schneller Modelle durch gerechnet werden können desto eher ist ein Lösung in Sicht. Ist halt so wie Lotto. Wer mehr spielt hat mehr Chancen.
 Bei Folding@Home habe ich uns als Team angemeldet -> TheDivision2_ALS mit der Team Id 255528 (aber natürlich könnt ihr auch daran teilnehmen mit einem anderen Team oder ohne Team).
 Das Vorgehen ist wie folgt:
-Auf (https://foldingathome.org/) gehen, sich informieren (gibt auch jede Menge Infos auf wikipedia und youtube) und das Programm für den PC herunter laden, ausführen und ggfls. Teamid und einen Namen (freie Wahl) angeben.
+Auf [Folding@Home](https://foldingathome.org/) gehen, sich informieren (gibt auch jede Menge Infos auf wikipedia und youtube) und das Programm für den PC herunter laden, ausführen und ggfls. Teamid und einen Namen (freie Wahl) angeben.
 Das Programm nistet sich dann im Hintergrund in der Taskleiste ein und man kann jederzeit es pausieren oder die Intensität mit der es rechnet herauf oder herunter schrauben.
 Bei mir (i7 8700k / RTX 2070) kann es mit mittleren Einstellungen auch bei 1080P Gaming auch aktiv sein wenn ich spiele. Aber meist dürfte es sinnvoll sein es während des spielens auf Pause zu schalten.
 
