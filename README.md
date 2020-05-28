@@ -3,6 +3,25 @@
 Ein offener, deutschsprachiger Clan mit Schwerpunkt auf PVE. 
 
 
+## Ziel 
+Die angebotenen Medien wie diese Übersichtsseite und der Discord Server sollen die Möglichkeiten des Zusammenspielens erleichtern.
+Der Discord Server ist  die gemeinsame Kommunikationsbasis für Mitglieder und Nichtmitglieder des Clans. 
+Hier können sich Gruppen für Raids, Wochen- und Tagesaufgaben finden. Und zwar unabhängig von der Clanzugehörigkeit der einzelnen Spieler. 
+
+## Raid
+Aktuell treffen wir uns Freitags um 20:00 für den Raid. Wir haben schon einige Übung und erreichen unser Ziel meist so in etwa 1 Stunde. Natürlich gibt es immer Verbesserungspotential. Jeder kann gerne joinen - meist kommen 1,2 Neue dazu.
+
+Es ist sinnvoll sich vorher über den Raid zu informieren ein entsprechender Link auf youtube findet ihr unten. Aber natürlich quillt youtube von entsprechenden Videos über. Feedback ist immer willkommen.
+
+Im Juni 2020 werden wir wohl einen neuen Raid bekommen - mal sehen wie der so ist.
+
+## Legendäre Missionen
+Wenn genügend Leute Lust haben und nicht durch Tagesaufgaben oder Events daran gehindert werden finden sich auch Gruppen für legendäre Missionen.
+
+## Noch nicht so gutes Gearset?
+Kein Problem. Es wird sich im Discord meist jemand finden (oder im Clanchat) der hilft ein gutes Gearset aufzubauen und zusammen farmen zu gehen.
+
+
 ## Discord Einladungslink 
 [Discord Einladungslink](https://discord.gg/Pfq2FRa)<br>
 
@@ -13,21 +32,8 @@ Bei Folding@Home habe ich uns als Team angemeldet -> TheDivision2_ALS mit der Te
 Das Vorgehen ist wie folgt:
 Auf [Folding@Home](https://foldingathome.org/) gehen, sich informieren (gibt auch jede Menge Infos auf wikipedia und youtube) und das Programm für den PC herunter laden, ausführen und ggfls. Teamid und einen Namen (freie Wahl) angeben.
 Das Programm nistet sich dann im Hintergrund in der Taskleiste ein und man kann jederzeit es pausieren lassen oder die Intensität mit der es rechnet herauf oder herunter schrauben.
-Bei mir (i7 8700k / RTX 2070) kann es mit mittleren Einstellungen auch bei 1080P Gaming auch aktiv sein wenn ich spiele. Aber meist dürfte es sinnvoll sein es während des Spielens auf Pause zu schalten.
 
-## Ziel 
-Die angebotenen Medien wie diese Übersichtsseite und der Discord Server sollen die Möglichkeiten des Zusammenspielens erleichtern.
-Der Discord Server ist  die gemeinsame Kommunikationsbasis für Mitglieder und Nichtmitglieder des Clans. 
-Hier können sich Gruppen für Raids, Wochen- und Tagesaufgaben finden. Und zwar unabhängig von der Clanzugehörigkeit der einzelnen Spieler. 
 
-## Raid
-Aktuell treffen wir uns Freitags um 20:00 für den Raid. Da wir im Aufbau eines Raid Teams sind üben wir derzeit im Discovery Modus und nach einem Run in diesem Modus versuchen wir uns am "richtigen" Raid.
-Ziel ist es sicher die Mechaniken zu verstehen, jedem seine Rolle einfach zu vermitteln und dann als Team zu gewinnen.
-
-Es ist sinnvoll sich vorher über den Raid zu informieren ein entsprechender Link auf youtube findet ihr unten. Aber natürlich quillt youtube von entsprechenden Videos über. Feedback ist immer willkommen.
-
-Im Discovery Modus spielt das Gear Set und die Ausrüstung keine große Rolle aber im Normalmodus ist 1 Heilungsskill und einen Wiederbeleber sehr hilfreich.
-Je nach Strategie kann sich das natürlich ändern.
 
 ## Links und Infos
 [Basisinformationen zu Discord](https://youtu.be/S-lKon8xZx4)<br>
