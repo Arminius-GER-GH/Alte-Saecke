@@ -2,6 +2,8 @@
 ## The Division 2 - Clan
 Ein offener, deutschsprachiger Clan mit Schwerpunkt auf PVE. 
 
+## Discord Einladungslink 
+[Discord Einladungslink](https://discord.gg/Pfq2FRa)<br>
 
 ## Ziel 
 Die angebotenen Medien wie diese Übersichtsseite und der Discord Server sollen die Möglichkeiten des Zusammenspielens erleichtern.
@@ -21,9 +23,6 @@ Wenn genügend Leute Lust haben und nicht durch Tagesaufgaben oder Events daran 
 ## Noch nicht so gutes Gearset?
 Kein Problem. Es wird sich im Discord meist jemand finden (oder im Clanchat) der hilft ein gutes Gearset aufzubauen und zusammen farmen zu gehen.
 
-
-## Discord Einladungslink 
-[Discord Einladungslink](https://discord.gg/Pfq2FRa)<br>
 
 ## Coronakrise, wir können helfen mit https://foldingathome.org
 Wir (besonders als PC Gamer) können den Forschern, die auf der Suche nach einem Impfstoff sind, helfen.
